@@ -13,5 +13,5 @@ let total : number = 0;
 let name: string = 'Pasan';
 
 let sentence: string = 'My name is ${name} I am a beginner in Typescript';
-
+//output: My name is Pasan I am beginner in Typescript
 console.log(sentence);
